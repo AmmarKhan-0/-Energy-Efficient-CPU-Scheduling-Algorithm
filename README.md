@@ -1,4 +1,4 @@
-# EAPSS — Energy-Aware Preemptive Scheduling Simulator
+# EAPS — Energy-Aware Preemptive Scheduler
 
 This repository contains a complete CPU scheduling simulator focused on **reducing energy consumption without compromising performance**, designed for **mobile and embedded systems**.  
 It includes an interactive GUI, real-time visualizations, and a batch-experiment engine.
