@@ -100,11 +100,6 @@ Per-seed energy curves (PNG).
 
 ---
 
-## 📜 License
-MIT (or choose your own license)
-
----
-
 ## ✨ Credits
 Developed as an experimental platform for comparing **energy-aware CPU scheduling strategies** against performance-oriented baselines.
 
